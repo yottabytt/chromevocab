@@ -34,41 +34,41 @@ chromevocab! is a small and simple chrome extension that may come in handy to pe
 
 #### Click on top left for more options
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/backscreen.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/backscreen.png)
 
 #### Searching through address bar
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/searching_through_addressbar.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/searching_through_addressbar.png)
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/searched_result_chicanery.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/searched_result_chicanery.png)
 
 #### Chicanery in chromevocab! homescreen
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/chicanery_in_ chromevocab_homescreen.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/chicanery_in_ chromevocab_homescreen.png)
 
 #### Chicanery in chromevocab! list
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/chicanery_in_storage.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/chicanery_in_storage.png)
 
 #### Deletion from chromevocab!
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/delete_option.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/delete_option.png)
 
 #### Add words manually 
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/adding_own_words.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/adding_own_words.png)
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/ownword_after_storage.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/ownword_after_storage.png)
 
 #### Search from Google website
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/searching_through_searchbar_from_google_screen.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/searching_through_searchbar_from_google_screen.png)
 
 #### List of Words
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/list_of_words.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/list_of_words.png)
 
 #### Search through list of words for faster access
 
-![Screenshot] (https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/search_feature.png)
+![Screenshot](https://raw.githubusercontent.com/yottabytt/chromevocab/master/screenshots/search_feature.png)
 
